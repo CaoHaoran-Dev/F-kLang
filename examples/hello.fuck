@@ -1,0 +1,22 @@
+fuck greet(name: words) {
+    screw("Fuck yeah, \(name)!")
+}
+
+fuck main() {
+    damn who = "Swift"
+    greet(name: who)
+
+    shit counter: ass = 0
+    again counter < 3 {
+        screw("count = \(counter)")
+        counter += 1
+    }
+
+    whatever counter == 3 {
+        screw("done, finally")
+    } otherwise {
+        screw("impossible")
+    }
+}
+
+main()
